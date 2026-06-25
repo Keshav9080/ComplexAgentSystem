@@ -78,4 +78,4 @@ This refactor would not change the external API (`AgentPipeline.run(request)`) b
 | One hindsight design change | Unified `PipelineState` (above) |
 | Two trade-offs with reasoning | Parsing vs NLP; fallback vs fail-fast (above) |
 
-Related docs: `docs/design.md` (architecture), `docs/System Design Document.md` (overview), `docs/video-script.md` (demo including failure case).
+Related docs: `docs/design.md` (architecture), `docs/System Design Document.md` (overview), `docs/demo.mp4` (visual demo including failure case).
