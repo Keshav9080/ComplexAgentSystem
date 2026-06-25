@@ -1,3 +1,6 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+
+# Local-only docs (not published to GitHub)
+docs/video-script.md
